@@ -1,5 +1,4 @@
 # my-TIS-WORLD
-✨
 
 🌍✨ Welcome to TIS WORLD ✨🌍
 
