@@ -1,4 +1,4 @@
-📊 **PPG Industry Talk 2025: Data Analytics & Global Infrastructure** ✨
+# 📊 **PPG Industry Talk 2025: Data Analytics & Global Infrastructure** ✨
 ---
 On 20/11/2025,
 This repository summarizes my key takeaways and reflections from the **PPG Industry Talk 2025**, where experts shared insights on how a global company like **PPG** leverages technology 💻, data analytics 📈, and cloud infrastructure ☁️ to operate efficiently across 70 countries 🌍.
