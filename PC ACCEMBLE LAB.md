@@ -1,14 +1,17 @@
 💻 Lab Session: Computer Disassembly & Assembly
+---
 
 During this lab session, we learned how to carefully disassemble and assemble a desktop computer, gaining hands-on experience with internal components. As a girl, I am rarely exposed to hardware tasks like this, so it was exciting to step out of my comfort zone and explore something new.
 
 We practiced:
+---
 
 - Removing and reconnecting RAM, hard disk, power supply, and CPU cooling fan.
 - Properly handling internal cables and components to avoid damage.
 - Following the correct sequence for disassembly and assembly to ensure the system functions properly.
 
 💡 Key Takeaways
+---
 - Focus during the lecturer’s instructions is essential to perform the tasks safely and accurately.
 - Hands-on learning makes technical concepts more understandable and enjoyable.
 - Experimenting with hardware boosted my confidence and motivation to explore ICT and technical skills further.
