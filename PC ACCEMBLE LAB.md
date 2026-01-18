@@ -1,4 +1,4 @@
-💻 Lab Session: Computer Disassembly & Assembly
+# 💻 Lab Session: Computer Disassembly & Assembly
 ---
 
 During this lab session (12 November 2025), we learned how to carefully disassemble and assemble a desktop computer, gaining hands-on experience with internal components. As a girl, I am rarely exposed to hardware tasks like this, so it was exciting to step out of my comfort zone and explore something new.
