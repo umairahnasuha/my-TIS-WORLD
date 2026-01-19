@@ -12,7 +12,7 @@ Working on this project allowed me to step into the shoes of autistic and ADHD i
 - Report: 
 [Report Project Design Thinking Group 6.pdf](https://github.com/user-attachments/files/24707899/Report.Project.Design.Thinking.Group.6.pdf)
 - Slide: [Creative Project.pdf](https://github.com/user-attachments/files/24707970/Creative.Project.pdf)
-- Prototype Phone: https://www.figma.com/make/ivR6FcAWxyzsKLKlNf21L3/Child-Smartwatch-Features?fullscreen=1&t=3hL3wikIXIV9AAZy-1 
+- Prototype Phone: https://www.figma.com/make/zjNAvQGUJX3vubwArWaUOr/Parent-Monitoring-App-Interface?p=f&t=zQTPyAg6ONN4aGgL-0&fullscreen=1
 - Prototype Smartwatch: https://detail-proxy-82176953.figma.site/ 
 - Prototype Website:https://www.figma.com/make/rfsAA7nfa7d5qSdyL1H5hg/Website?fullscreen=1&t=LwuV6o4z9uOc5mpn-1 
 
